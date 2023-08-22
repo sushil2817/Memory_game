@@ -47,7 +47,7 @@ function fail(){
     firstCard.classList.remove("flip");
     secondCard.classList.remove("flip");
   reset();
-},400);
+},300);
 }
 
 function reset(){
